@@ -179,7 +179,7 @@ body {
     transform: translateY(-50%);
     text-align: left;
     max-width: none;
-    width: 88%;
+    width: 68%;
     z-index: 2;
     color: white;
     padding: 35px 60px;
@@ -1255,7 +1255,7 @@ body {
     background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
     padding: 60px;
     border-radius: var(--border-radius-lg);
-    box-shadow: var(--shadow-medium);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
     border: 1px solid var(--border-light);
 }
 
@@ -2480,7 +2480,7 @@ body {
     transform: translateX(-50%);
     width: 80px;
     height: 4px;
-    background: linear-gradient(90deg, #059669, #047857);
+    background: linear-gradient(90deg, #051b96, #00ccff);
     border-radius: 2px;
 }
 
